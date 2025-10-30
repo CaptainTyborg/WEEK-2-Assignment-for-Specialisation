@@ -9,6 +9,7 @@ Short description: Forecast country-level annual CO₂ emissions using public da
 - src/ — helper scripts.
 - data/ — raw and cleaned datasets (not uploaded, see instructions).
 - slides/pitch_deck.pptx — 5-min pitch deck.
+- The trained model (rf_co2_model.pkl) is too large for GitHub. Download it from [https://drive.google.com/file/d/1CeVz9P5DxTiPQn8DtZwFJbMMIJa1hFHS/view?usp=drive_link].
 
 ## How to run (Colab)
 1. Upload `data/worldbank_features.csv` and `data/co2_target.csv` to Colab.
